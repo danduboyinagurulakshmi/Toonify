@@ -1,0 +1,8 @@
+streamlit
+opencv-python-headless
+numpy
+Pillow
+stripe
+pymongo
+bcrypt
+python-dotenv
